@@ -1,0 +1,29 @@
+.tablero{
+	width: 600px;
+	height: 500px;
+	border: 5px solid; color: black;
+}
+
+.posicion{
+	width: 62.5px;
+	height: 62.5px;
+	display: inline-block;
+}
+
+.posicion2{
+	width: 62.5px;
+	height: 62.5px;
+	display: inline-block;
+}
+
+.gray{
+	background: white;
+}
+
+.black{
+	background: gray;
+}
+
+body {
+	font-size: 0px;
+}
